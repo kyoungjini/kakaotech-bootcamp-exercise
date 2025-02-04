@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercise-inheritance/exercise-inheritance.iml" filepath="$PROJECT_DIR$/exercise-inheritance/exercise-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-thread/exercise-thread.iml" filepath="$PROJECT_DIR$/exercise-thread/exercise-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/kakao-bootcamp-study.iml" filepath="$PROJECT_DIR$/kakao-bootcamp-study.iml" />
     </modules>
   </component>
